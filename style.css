@@ -169,6 +169,10 @@ transition: 0.5s;
         grid-template-rows: 1fr;
     }
 
+    .triple{
+        grid-template-columns: 1fr;
+    }
+
     .grid-textes{
         grid-template-rows: 1fr;
     }
