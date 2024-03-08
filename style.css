@@ -164,7 +164,6 @@ transition: 0.5s;
         justify-content: center;   
     }
 
-
     .double{
         grid-template-rows: 1fr;
     }
