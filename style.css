@@ -165,6 +165,14 @@ transition: 0.5s;
     }
 
 
+    .double{
+        grid-template-rows: 1fr;
+    }
+
+    .grid-textes{
+        grid-template-rows: 1fr;
+    }
+
     }
 
 
